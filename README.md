@@ -4,4 +4,3 @@
 
 ### And another.
 
-### And yet another.
